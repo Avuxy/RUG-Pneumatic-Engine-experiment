@@ -19,7 +19,7 @@ These are the install instructions for the summer 2024 python variant of the pne
 5. Check baud rate and COM ports, 1 way to do this is Dynamixel wizard for Servo engines.
 6. Specifiy result folder, default is windows desktop.
 
-If errors occur feel free to reach out, in addition more information is avaible in the research paper.
-Aart.vanwerven1@hotmail.nl
+If errors occur feel free to reach out Aart.vanwerven1@hotmail.nl
+
 
 
