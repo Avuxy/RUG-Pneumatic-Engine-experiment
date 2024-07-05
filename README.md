@@ -3,7 +3,8 @@
 An collection of files used for pneumatic engine Experiment at the Rijksuniversiteit of Groningen.
 
 For the installation make sure to install the latest code, older code is also available. The CAD files are limited to the ones in my possesion. 
-All data obtained with the experiment can be found in the data section and is available for use in future work.
+In addition to the CAD files the CURA settings profile for manufacturing for the parts can be found.
+All data obtained with the experiment can be found in the data section and is available for use in future work. 
 
 Good luck with this project and have fun!
 
